@@ -8,7 +8,7 @@
     android:layout_marginTop="0dp"
     android:layout_marginEnd="0dp"
     android:layout_marginRight="25dp"
-    android:background="#A0D6B4"
+    android:background="#B0E0E6"
     android:orientation="vertical"
     tools:context=".EditTodoFragment"
     >
@@ -22,7 +22,7 @@
         android:ems="10"
         android:hint="Task Name"
         android:inputType="textPersonName"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textColorHint="@color/black" />
 
     <EditText
@@ -35,7 +35,7 @@
         android:hint="@string/edit_date"
         android:inputType="textPersonName"
         android:textColor="@color/black"
-        android:textColorHint="#000000" />
+        android:textColorHint="@color/black" />
 
     <ScrollView
         android:layout_width="match_parent"

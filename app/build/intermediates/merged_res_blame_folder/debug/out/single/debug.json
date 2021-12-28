@@ -104,10 +104,6 @@
         "source": "D:\\New folder (2)\\todolistApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\New folder (2)\\todolistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg.jpg.flat",
-        "source": "D:\\New folder (2)\\todolistApp\\app\\src\\main\\res\\drawable-v24\\mainbg.jpg"
-    },
-    {
         "merged": "D:\\New folder (2)\\todolistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_text_border.xml.flat",
         "source": "D:\\New folder (2)\\todolistApp\\app\\src\\main\\res\\drawable\\rounded_text_border.xml"
     },
@@ -182,6 +178,10 @@
     {
         "merged": "D:\\New folder (2)\\todolistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
         "source": "D:\\New folder (2)\\todolistApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\todolistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg.png.flat",
+        "source": "D:\\New folder (2)\\todolistApp\\app\\src\\main\\res\\drawable-v24\\mainbg.png"
     },
     {
         "merged": "D:\\New folder (2)\\todolistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_login.png.flat",
